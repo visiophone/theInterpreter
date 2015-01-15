@@ -9,3 +9,10 @@ Made with Processing. Touch Interface with TouchOSC.
 "The Interpreter" was exhibited at INTER-FACE : International Conference on Live Interfaces 2014 (Lisboa).
 
 By: Rodrigo Carvalho (Visuals, Interactive System) | Yago de Quay (Music, Interactive System) | Shen Jun (Dance)
+
+//////////////////////////////////
+
+Needs toxic, peasyCam, oscP5 and controlP5 libraries
+https://processing.org/reference/libraries/
+
+
